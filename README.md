@@ -1,4 +1,4 @@
-### Hi, Iam Vidhya Sagar👋                                                                 ![](https://visitor-badge.laobi.icu/badge?page_id=vidhyasagar12.vidhyasagar12
+### Hi, Iam Vidhya Sagar👋                                                             ![](https://visitor-badge.laobi.icu/badge?page_id=vidhyasagar12.vidhyasagar12)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vidhyasagar12&" alt="vidhyasagar12" /></p
 <h3 align="left">Languages and Tools:</h3>
