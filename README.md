@@ -10,3 +10,11 @@
 <a href="https://linkedin.com/in/vidhya sagar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vidhya sagar" height="30" width="40" /></a>
 <a href="https://twitter.com/@avsrvidhya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@avsrvidhya" height="30" width="40" /></a>
 </p>
+<h3 class = "gradtext" style = "font-size:30px; font-weight: 800;">
+  "Vidhya"
+  <br>
+  "Sagar"
+  </h3>
+  .gradtext {
+  background: linear-gradient(137deg,#5335cf,#de005e 25%, #f66e48 50%);
+  -webkit-background-clip:text;
